@@ -5,7 +5,7 @@ Aplikasi ini berisi menu makanan, detail menu, contact, profile.
 ### Screenshot
 
 <img src="Home.jpeg?raw=true" height=400px/>
-<img src="LIst.jpeg?raw=true" height=400px/>
+<img src="List.jpeg?raw=true" height=400px/>
 <img src="Food.jpeg?raw=true" height=400px/>
 <img src="Profile.jpeg?raw=true" height=400px/>
 
