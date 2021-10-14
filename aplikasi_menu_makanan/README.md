@@ -1,10 +1,13 @@
 # Aplikasi Menu Makanan (UTS Pemrograman Mobile)
 
-Aplikasi ini berisi menu makanan, detail menu, contact, profile.
+Aplikasi ini berisi Home, Menu makanan, Detail menu, Contact, Profile.
 
 ### Screenshot
 
-<img src="robert.jpg?raw=true" height=400px/>
+<img src="Home.jpeg?raw=true" height=400px/>
+<img src="List.jpeg?raw=true" height=400px/>
+<img src="Food.jpeg?raw=true" height=400px/>
+<img src="Profile.jpeg?raw=true" height=400px/>
 
 ### Built With
 
