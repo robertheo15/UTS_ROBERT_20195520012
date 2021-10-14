@@ -1,6 +1,6 @@
-# Aplikasi Ir. H. Soekarno (Tugas kedua pemrograman mobile)
+# Aplikasi Menu Makanan (UTS Pemrograman Mobile)
 
-Aplikasi ini menjelaskan tentang salah satu tokoh pahlawan di indonesia
+Aplikasi ini berisi menu makanan, detail menu, contact, profile.
 
 ### Screenshot
 
